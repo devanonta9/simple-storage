@@ -1,0 +1,20 @@
+server:
+ address: ":8099"
+storage:
+  folder: "/temp-files/"
+  uri: "/store/download/"
+credential:
+  admin: "admin123"
+  manager: "manager123"
+  staff: "staff123"
+content:
+  jpeg: "image/jpeg"
+  png: "image/png"
+  gif: "image/gif"
+  svg: "image/svg+xml"
+  avi: "video/avi"
+  gl: "video/gl"
+  mpeg: "video/mpeg"
+  mp4: "video/mp4"
+  mov: "video/quicktime"
+  vivo: "video/vivo"
